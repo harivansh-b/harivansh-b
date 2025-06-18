@@ -22,9 +22,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harivansh-b&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harivansh-b/harivansh-b/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harivansh-b/harivansh-b/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/harivansh-b/harivansh-b/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cp200513/cp200513/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cp200513/cp200513/output/github-snake.svg" />
 </picture>
 
 <h3 align="left">Languages and Tools:</h3>
