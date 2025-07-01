@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Development<br>👯 I’m looking to collaborate on AI/ML Projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about DSA
 
-![](https://komarev.com/ghpvc/?username=harivansh-b&style=for-the-badge&abbreviated=true&color=bluevoilet)
+![](https://komarev.com/ghpvc/?username=harivansh-b&style=for-the-badge&abbreviated=true&color=blueviolet)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harivansh_b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bandaruharivansh@gmail.com) 
