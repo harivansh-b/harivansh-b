@@ -12,6 +12,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -22,7 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff4500&color_dots=#aadffd,#6fb1fc,#1e90ff,#104e8b,#0b3d91&color_background=000000
             dist/ocean.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
