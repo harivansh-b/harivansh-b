@@ -1,3 +1,4 @@
+![](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 # 💫 About Me:
 🔭 I’m currently working on Development<br>👯 I’m looking to collaborate on AI/ML Projects<br>🌱 I’m currently learning AI/ML<br>💬 Ask me about DSA
 
